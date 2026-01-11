@@ -1,1 +1,2 @@
 learning github bassics
+learned commits and README
